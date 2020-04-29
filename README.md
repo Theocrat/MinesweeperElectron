@@ -22,5 +22,7 @@ The following is yet to be done:
   5. An HTML file to Display the game area, with a node for the aforementioned JS script to write in and make a game area of the right dimensions.
 
   6. Create an automated installer to install the Node Modules and other pre-requisites for the user:
+     
      [ ] for Linux, preferable using `make`.
+     
      [ ] for Windows, preferably using a BAT file.
