@@ -1,0 +1,25 @@
+{
+  "name": "minesweeper-electron",
+  "version": "1.0.0",
+  "description": "A simple Minesweeper game implemented in Electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Tests not implemented.",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [
+    "minesweeper",
+    "mine",
+    "electron",
+    "mines"
+  ],
+  "author": "Rajarshi Bandopadhyay",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^8.2.4"
+  }
+}
